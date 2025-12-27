@@ -28,4 +28,3 @@ _Add screenshots in a `/screenshots` folder_
 **Anouar Derja**  
 Junior Full-Stack Developer  
 GitHub: https://github.com/Anouar-Derja
-
