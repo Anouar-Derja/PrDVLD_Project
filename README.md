@@ -22,7 +22,23 @@ Administrative desktop application built using **C#**, **SQL Server**, and clean
 - **DVLD_DataAccess** – Data Access Layer  
 
 ## 📸 Screenshots
-_Add screenshots in a `/screenshots` folder_
+### 🔐 Login
+![Login](screenshots/Login.png)
+
+### 🏠 Main Menu
+![Main Menu](screenshots/MainMenu.png)
+
+### 👤 People Management
+![Manage People](screenshots/ManagePeople.png)
+
+### 🚗 Drivers Management
+![Manage Drivers](screenshots/ManageDrivers.png)
+
+### 👨‍💼 Users Management
+![Manage Users](screenshots/ManageUsers.png)
+
+### 🗄️ Database Design
+![Database](screenshots/DVLD Database.png)
 
 ## 👤 Author
 **Anouar Derja**  
