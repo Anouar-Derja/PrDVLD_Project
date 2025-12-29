@@ -38,7 +38,7 @@ Administrative desktop application built using **C#**, **SQL Server**, and clean
 ![Manage Users](screenshots/ManageUsers.png)
 
 ### 🗄️ Database Design
-![Database](screenshots/DVLD Database.png)
+![Database](screenshots/DVLDDatabase.png)
 
 ## 👤 Author
 **Anouar Derja**  
