@@ -21,24 +21,23 @@ Administrative desktop application built using **C#**, **SQL Server**, and clean
 - **DVLD_Business** – Business Logic  
 - **DVLD_DataAccess** – Data Access Layer  
 
-## 📸 Screenshots
 ### 🔐 Login
-![Login](screenshots/Login.png)
+![Login](Login.png)
 
 ### 🏠 Main Menu
-![Main Menu](screenshots/MainMenu.png)
+![Main Menu](MainMenu.png)
 
-### 👤 People Management
-![Manage People](screenshots/ManagePeople.png)
+### 👥 People Management
+![Manage People](ManagePeople.png)
 
 ### 🚗 Drivers Management
-![Manage Drivers](screenshots/ManageDrivers.png)
+![Manage Drivers](ManageDrivers.png)
 
-### 👨‍💼 Users Management
-![Manage Users](screenshots/ManageUsers.png)
+### 👤 Users Management
+![Manage Users](ManageUsers.png)
 
 ### 🗄️ Database Design
-![Database](screenshots/DVLDDatabase.png)
+![Database](DVLDDatabase.png)
 
 ## 👤 Author
 **Anouar Derja**  
