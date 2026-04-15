@@ -21,5 +21,8 @@ Administrative desktop application built using **C#**, **SQL Server**, and clean
 - **DVLD_Business** – Business Logic  
 - **DVLD_DataAccess** – Data Access Layer  
 
+## 🎥 Demo Video
+
+▶️ [Watch DVLD Demo]([https://drive.google.com/file/d/1jP9pSTOqgYixNifhjteM3TjjrlcW6mTU/view?usp=sharing](https://drive.google.com/file/d/1CSG-Msf5H0tC-3T1jHWT2l8EqwxP2K0X/view?usp=sharing))
 
 
